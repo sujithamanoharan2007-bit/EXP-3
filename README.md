@@ -40,9 +40,15 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![exp 3 circuit](https://github.com/user-attachments/assets/98ee6e21-8aa7-49bf-81b0-4d2cfef979f0)
+
 Tabulation:1
-	
+	![exp 3 pg 1](https://github.com/user-attachments/assets/b085a2b9-a0df-4923-b085-fb49942d0c13)
+
 Cross connection: CIRCUIT DIAGRAM:
+![exp 3 circuit 2](https://github.com/user-attachments/assets/bb42443b-197b-4740-81b6-23e66f081e70)
+
+![exp3 pg 2](https://github.com/user-attachments/assets/d2e37feb-7d9c-4f93-89f4-37c35ff89036)
 
 Tabulation:2
 
